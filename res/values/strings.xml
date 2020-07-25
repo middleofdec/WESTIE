@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Westie Project</string>
+    <string name="my_home">My Home</string>
+    <string name="username_hint">Username</string>
+    <string name="password_hint">Password</string>
+    <string name="westie_logo">Westie Logo</string>
+    <string name="thanasiri_chanasinwongchai">Thanasiri Chanasinwongchai</string>
+    <string name="logout_btn">Logout</string>
+    <string name="user_pic">user_pic</string>
+    <string name="temperature_show">Temperature (C)</string>
+    <string name="humidity_show">Humidity (%)</string>
+    <string name="LPG_show">LPG ( ppm )</string>
+    <string name="CO_show">Carbon monoxide ( ppm )</string>
+    <string name="smoke_show">Smoke ( ppm )</string>
+    <string name="on">ON</string>
+    <string name="off">OFF</string>
+    <string name="button">Button</string>
+    <string name="camera">Camera</string>
+    <string name="textView_camera">Make sure your WIFI ID is correct</string>
+    <string name="btn_text_camera">Go to your Camera</string>
+    <string name="light_pic">light_pic</string>
+    <string name="lamp_pic">lamp_pic</string>
+</resources>
